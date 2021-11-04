@@ -29,9 +29,6 @@
 
 <br>
 
-![](https://images.velog.io/images/dbk03053/post/30ecb45c-9425-4ce1-b686-82739dec241a/watta_station.gif)
-
-![](https://images.velog.io/images/dbk03053/post/30ecb45c-9425-4ce1-b686-82739dec241a/watta_station.gif)
 
 ## 📢 Reference
 
