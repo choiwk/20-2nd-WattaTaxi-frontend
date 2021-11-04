@@ -1,6 +1,6 @@
 # Wa:tta Taxi
 
-> - [데모영상](https://youtu.be/1TwI_AG3N6Y)
+> - [데모자료]https://velog.io/@dbk03053/2차-프로젝트-Watta-Taxi
 
 #### 팀원
 프론트엔드 (4): 김예슬, 이다슬, 윤세용, 최원근  
